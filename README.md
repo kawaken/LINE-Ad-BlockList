@@ -1,7 +1,12 @@
 # LINE-Ad-BlockList
-LINE広告のブロックリスト（AdGuardHome用）
+LINE広告・VOOM・ニュースをブロックするAdGuard DNS用ユーザールール
 
-使い方：[LINE広告にさよならを！｜AdGuard Proで簡単ブロック](https://minimalist-meme.com/line-ad-block-iphone/)
+## 使い方
 
-動画ver
-[![alt設定](https://github.com/user-attachments/assets/db7e1496-5696-41f6-974a-245981fef918)](https://youtu.be/p5uDziuqsq0?si=E5_LCGAIv_NtWADy)
+AdGuard DNSのサーバー設定にある「ユーザールール」に、このリポジトリのルールを追加してください。
+
+1. [AdGuard DNS](https://adguard-dns.io/) にログイン
+2. サーバー → ユーザールール → エディタを開く
+3. ルールをコピー＆ペーストして保存
+
+![AdGuard DNS ユーザールールエディタ](images/image.png)
